@@ -1,0 +1,41 @@
+body{
+    background: light rgb(133, 129, 129);
+    display: block;
+}
+h1{
+    text-align: center;
+    text-shadow: 1px 1px 5px  rgb(51, 51, 53);
+}
+table{
+    align-self: auto;
+    margin: 0 auto;
+    border-collapse: collapse;
+    border: 2px solid black;
+    /* height: 1000px; */
+    width: 70%;
+}
+td{
+    width: 800px;
+    padding: 15px;
+    border: 1px solid black;
+}
+h2{
+    text-align: center;
+    padding: 10px;
+    color: darkblue;
+}
+img{
+    width: 250px;
+    cursor: pointer;    
+}
+div{
+    height: 35px;
+    font-weight: 600;
+    border-radius: 10px;
+    float: right;
+    position: right;
+    width: 20%;
+    border: 1px solid grey;
+    color: rgb(236, 16, 16);
+    padding: 10px;
+}
